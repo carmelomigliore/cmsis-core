@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "CMSIS-Core",
   "keywords": [
     "cmsis",
@@ -42,6 +42,15 @@
     },
     "cordio": {
       "cmsis-core-cordio": "~0.0.2"
+    },
+    "nuvoton": {
+      "cmsis-core-nuvoton": "^1.0.0"
+    },
+    "nxp": {
+      "cmsis-core-nxp": "~0.1.0"
+    },
+    "arm-ssg": {
+      "cmsis-core-arm-ssg": "^1.0.0"
     }
   }
 }
